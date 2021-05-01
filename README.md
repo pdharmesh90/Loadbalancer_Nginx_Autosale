@@ -57,6 +57,7 @@ Below are the snapshots of Console
 
 ![image](https://user-images.githubusercontent.com/27212853/116781966-f9aa2280-aaa3-11eb-98c4-f5fe4a8bae05.png)
 
+![image](https://user-images.githubusercontent.com/27212853/116783087-6d4f2e00-aaaa-11eb-9ee3-e309297e1b52.png)
 
 
 
