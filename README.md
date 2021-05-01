@@ -32,3 +32,8 @@ c)	Configured health check
 6)	Mounted extra volume under /var/log with lvm – this enables us to increase the volume as per requirements. 
 7)	Autoscaling Policy is configured to autoscale the instance with +1  if average CPU utilization is more than 40 for two consecutive periods and scale down to -1 if CPU utilization is less than 20 for two consecutive periods, Cloud watch alarm is created for both triggers, we can get email updates by creating a SNS topic and subscribing to the topic. 
 8)	We can test High Availability and load balance by refreshing the URL of load balancer, it shows private IP of instance running on the availability zone in bottom of the html page – configured user data to extract private IP and redirect it to default home page of nginx.   
+
+Below are the snapshots of Console 
+
+![image](https://user-images.githubusercontent.com/27212853/116781919-b5b71d80-aaa3-11eb-8b6a-bb3f9269d3fa.png)
+
