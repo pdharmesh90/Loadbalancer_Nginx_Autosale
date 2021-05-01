@@ -37,3 +37,16 @@ Below are the snapshots of Console
 
 ![image](https://user-images.githubusercontent.com/27212853/116781919-b5b71d80-aaa3-11eb-8b6a-bb3f9269d3fa.png)
 
+![image](https://user-images.githubusercontent.com/27212853/116781940-e26b3500-aaa3-11eb-8722-512a55392967.png)
+
+![image](https://user-images.githubusercontent.com/27212853/116781945-e8611600-aaa3-11eb-8c6a-33285ccf260b.png)
+
+![image](https://user-images.githubusercontent.com/27212853/116781950-edbe6080-aaa3-11eb-970b-32de1b7c3017.png)
+
+![image](https://user-images.githubusercontent.com/27212853/116781958-f3b44180-aaa3-11eb-81f3-fbb9a468d1a7.png)
+
+![image](https://user-images.githubusercontent.com/27212853/116781966-f9aa2280-aaa3-11eb-98c4-f5fe4a8bae05.png)
+
+
+
+
