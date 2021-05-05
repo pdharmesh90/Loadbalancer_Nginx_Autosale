@@ -1,11 +1,15 @@
 Steps to execute the files and some prerequisite. 
 
 1)	Create a public key and private key – ssh is enabled to login to ec2 instance for maintenance
-ssh-keygen -f mykey (Please use mykey as the name of the key)
+			
+			ssh-keygen -f mykey (Please use mykey as the name of the key)
 2)	Terraform code is not tightly coupled with a specific AWS account, use below commands to deploy 
-terraform init # Initializes terraform  
-terraform plan # This will ask for AWS_ACCESS_KEY and AWS_SECRET_KEY (Both keys can be generated while giving programmatic access to a user) Please enter both keys
-terraform apply # This will ask for AWS_ACCESS_KEY and AWS_SECRET_KEY, Please enter both keys
+			
+			terraform init # Initializes terraform  
+			
+			terraform plan # This will ask for AWS_ACCESS_KEY and AWS_SECRET_KEY (Both keys can be generated while giving programmatic access to a user) Please enter both keys
+			
+			terraform apply # This will ask for AWS_ACCESS_KEY and AWS_SECRET_KEY, Please enter both keys
 
 Once Terraform apply is completed, below are the resources which will be created in your AWS account. 
 
